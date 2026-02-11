@@ -1,0 +1,25 @@
+{
+  "name": "chimera-crypto",
+  "description": "The circulatory system. How value flows through systems using blockchain. Crypto as blood for autonomous infrastructure, not human investment.",
+  "upstream": ["chimera-system", "chimera-math"],
+  "peers": ["chimera-ai", "chimera-relationships", "chimera-basketball", "chimera-chess", "chimera-music", "chimera-cooking"],
+  "downstream": ["chimera-constellation"],
+  "doc_count": 15,
+  "docs": [
+    {"path": "README.md", "references": ["system/axioms/topology.md", "math/equations/honeydew-ratio.md"]},
+    {"path": "foundations/what-blockchain-actually-is.md", "references": ["body/core/the-gut.md", "crypto/deep/blockchain-as-memory.md"]},
+    {"path": "foundations/crypto-as-blood.md", "references": ["crypto/foundations/two-topologies.md", "math/equations/honeydew-ratio.md"]},
+    {"path": "foundations/two-topologies.md", "references": ["system/axioms/topology.md", "crypto/chains/stellar.md", "crypto/chains/bitcoin.md"]},
+    {"path": "foundations/manufactured-scarcity.md", "references": ["system/patterns/extraction-pipeline.md", "math/proofs/greed-topology-suicide.md"]},
+    {"path": "chains/stellar.md", "references": ["crypto/foundations/crypto-as-blood.md", "crypto/applied/constellation-circulatory.md", "crypto/applied/for-the-unbanked.md"]},
+    {"path": "chains/bitcoin.md", "references": ["crypto/foundations/two-topologies.md", "system/axioms/topology.md"]},
+    {"path": "chains/ethereum.md", "references": ["system/patterns/cancer.md", "crypto/chains/stellar.md"]},
+    {"path": "chains/solana.md", "references": ["crypto/chains/stellar.md", "crypto/foundations/two-topologies.md"]},
+    {"path": "applied/constellation-circulatory.md", "references": ["crypto/chains/stellar.md", "crypto/applied/the-invisible-flow.md", "constellation/agents/honeydew.md"]},
+    {"path": "applied/the-invisible-flow.md", "references": ["crypto/applied/constellation-circulatory.md", "crypto/applied/for-the-unbanked.md", "language/applied/the-entry-problem.md"]},
+    {"path": "applied/for-the-unbanked.md", "references": ["crypto/chains/stellar.md", "crypto/applied/the-invisible-flow.md", "crypto/applied/constellation-circulatory.md"]},
+    {"path": "deep/blockchain-as-memory.md", "references": ["crypto/foundations/what-blockchain-actually-is.md", "system/patterns/immune-failure.md"]},
+    {"path": "deep/velocity-vs-accumulation.md", "references": ["crypto/foundations/crypto-as-blood.md", "math/equations/honeydew-ratio.md", "math/translations/physics-to-chimera.md"]}
+  ],
+  "last_updated": "2026-02-11"
+}
