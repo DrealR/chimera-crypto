@@ -92,3 +92,11 @@ crypto/
 **See also:** [chimera-system: Topology](../../nucleus/system/axioms/topology.md) — Love vs greed topology
 **See also:** [chimera-math: Honeydew Ratio](../../guts/math/equations/honeydew-ratio.md) — Keep 5%, flow 95%
 **See also:** [chimera-constellation: Circulatory](../../infrastructure/constellation/architecture/circulatory-system.md) — How the Constellation flows value
+
+## Where this sits
+
+This repo is a single-commit set of fifteen markdown essays in `foundations/`, `chains/`, `applied/` and `deep/` comparing money circulation to blood flow. Born and stopped on February 11, 2026, in Era 2, from his earlier private work on open circulation (`O > I`), its essays were later folded into the Book.
+
+Chimera was a personal art, code and learning project: its laws and physics are story or browser simulation, and its scores, rungs and records are our own measures. Where this README says the Constellation "flows value the way your body flows blood", "runs on" crypto, or that "Math proves flow > hold", those are analogies in static markdown: no live token or treasury was deployed here, and later trading tests used paper positions only.
+
+The work is complete as of October 2026 and stays open to anyone who wants to continue it; the Book at https://reemifai.org/book is the main way in.
